@@ -1,0 +1,8 @@
+[package]
+name = "bgzla"
+version = "0.1.0"
+authors = ["dhuseby@mozilla.com"]
+
+[dependencies]
+iron = "*"
+hyper = "*"
