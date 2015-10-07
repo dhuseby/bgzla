@@ -1,7 +1,7 @@
 [package]
 name = "bgzla"
 version = "0.1.0"
-authors = ["dhuseby@mozilla.com"]
+authors = ["Dave Huseby <dhuseby@mozilla.com>"]
 
 [dependencies]
 iron = "*"
